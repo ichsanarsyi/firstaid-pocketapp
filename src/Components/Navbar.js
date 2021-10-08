@@ -18,13 +18,19 @@ export default function BottomAppBar() {
                 <Box sx={{ flexGrow: 1 }}></Box>
                 <Box component="span" sx={{ flexGrow: 2, border: 1, borderRadius:2, borderColor: "#ededed" }}>
                     <Button href="/tindakan" style={{ color:"#ededed" }}>
-                        Daftar Tindakan
+                        Tindakan
+                    </Button>
+                </Box>
+                <Box sx={{ flexGrow: 1 }}></Box>
+                <Box component="span" sx={{ flexGrow: 2, border: 1, borderRadius:2, borderColor: "#ededed" }}>
+                    <Button href="/kalkulator" style={{ color:"#ededed" }} >
+                        Kalkulator
                     </Button>
                 </Box>
                 <Box sx={{ flexGrow: 1 }}></Box>
                 <Box component="span" sx={{ flexGrow: 2, border: 1, borderRadius:2, borderColor: "#ededed" }}>
                     <Button href="/kontak" style={{ color:"#ededed" }} >
-                        Kontak Penting
+                        Kontak
                     </Button>
                 </Box>
                 <Box sx={{ flexGrow: 1 }}></Box>

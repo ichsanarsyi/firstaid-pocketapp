@@ -10,7 +10,7 @@ import CardMedia from "@material-ui/core/CardMedia";
 import { Modal } from "antd";
 import "antd/dist/antd.css";
 
-export default class Tindakan extends Component {
+export default class Kontak extends Component {
     constructor(props) {
 		super(props);
 		this.state = {
@@ -24,14 +24,14 @@ export default class Tindakan extends Component {
 		this.setState({
 			visible: true,
 			name: results.name,
-			procedure: results.procedure,
+			detail: results.detail,
 		});
 	};
 	
 	componentDidMount() {
 		axios({
 			method: "get",
-			url: "http://localhost:3000/cases",
+			url: "http://localhost:3000/contacts",
 			headers: {
 				accept: "*/*",
 			},
@@ -51,7 +51,7 @@ export default class Tindakan extends Component {
 		return (
 			<div style={{ backgroundColor: "#360400" }}>
 				<AppBar style={{ padding: "10px", marginBottom: "100px", backgroundColor:"#c70d00" }}>
-					<Typography style={{ margin: "auto", color: "#ededed", fontWeight: "bold" }}>Daftar Tindakan</Typography>
+					<Typography style={{ margin: "auto", color: "#ededed", fontWeight: "bold" }}>Daftar Kontak Penting Wilayah Semarang (024)</Typography>
 				</AppBar>
                 <br/><br/><br/>
 				<Grid container
@@ -63,7 +63,7 @@ export default class Tindakan extends Component {
                     alignItems="strech"
                 >
 					<Modal
-						title="Tata Laksana"
+						title="Detail"
 						centered
 						visible={this.state.visible}
 						onOk={() => this.setState({ visible: false })}
@@ -72,7 +72,7 @@ export default class Tindakan extends Component {
 					>
 						<div style={{ textAlign: "center" }}>
 							<p style={{ fontSize: 20, fontWeight: 'bold', fontFamily: 'Segoe UI' }}>{this.state.name}</p>
-							<p style={{ fontSize: 15, fontFamily: 'Segoe UI' }}>Tindakan:  {this.state.procedure}</p>
+							<p style={{ fontSize: 15, fontFamily: 'Segoe UI' }}>Nomor telepon:  {this.state.detail}</p>
 						</div>
 					</Modal>
 
@@ -99,7 +99,7 @@ export default class Tindakan extends Component {
 												<br/>{results.name}
 											</Typography>
 											<Typography>
-												Gejala : {results.symptom}
+												{results.desc}
 											</Typography>
 										</CardContent>
 									</CardActionArea>

@@ -10,7 +10,7 @@ import CardMedia from "@material-ui/core/CardMedia";
 import { Modal } from "antd";
 import "antd/dist/antd.css";
 
-export default class Tindakan extends Component {
+export default class Kalkulator extends Component {
     constructor(props) {
 		super(props);
 		this.state = {
@@ -37,9 +37,9 @@ export default class Tindakan extends Component {
 			},
 		})
 		.then((data) => {
-			console.log(data.data);
+			console.log(data.cases);
 			this.setState({
-				firstaid: data.data,
+				firstaid: data.cases,
 			});
 		})
 		.catch((error) => {
@@ -51,7 +51,7 @@ export default class Tindakan extends Component {
 		return (
 			<div style={{ backgroundColor: "#360400" }}>
 				<AppBar style={{ padding: "10px", marginBottom: "100px", backgroundColor:"#c70d00" }}>
-					<Typography style={{ margin: "auto", color: "#ededed", fontWeight: "bold" }}>Daftar Tindakan</Typography>
+					<Typography style={{ margin: "auto", color: "#ededed", fontWeight: "bold" }}>Kalkulator</Typography>
 				</AppBar>
                 <br/><br/><br/>
 				<Grid container
