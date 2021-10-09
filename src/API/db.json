@@ -4,91 +4,91 @@
       "name": "Perdarahan Luar (Terbuka)",
       "symptom": "ada luka terbuka; ada darah yang keluar: menyembur (arteri), mengalir (vena), merembes (kapiler).",
       "procedure":"Tekan langsung pada luka (dengan penutup luka) > tinggikan lebih tinggi dari jantung > tekan titik tekan: brakialis/radialis/femoralis > balut luka > bawa ke faskes terdekat",
-      "image": "https://i.postimg.cc/CLpZspYy/icedtea.png"
+      "image": "https://i.postimg.cc/ydQkW5FV/perdarahan-luar.png"
     },
     {
       "name": "Perdarahan Dalam (Tertutup)",
       "symptom": "memar, nyeri tekan, perubahan bentuk",
       "procedure":"baringkan korban di tempat teduh > pertahankan Airway, Breathing, & Circulation > periksa tanda-tanda vital > rawat sebagai syok > jangan beri makan/minum > bawa ke faskes terdekat",
-      "image": "https://i.postimg.cc/fL33BwJs/steamedcassava.jpg"
+      "image": "https://i.postimg.cc/sXDMjyG6/perdarahan-dalam.png"
     },
     {
       "name": "Syok",
       "symptom": "nadi cepat-lemah, nafas cepat-dangkal, kulit pucat, gelisah, mual, pusing, haus",
       "procedure":"bawa korban ke tempat teduh > tidurkan terlentang > tinggikan tungkai > longgarkan pakaian > beri selimut > jaga jalan napas > rawat cedera > jangan beri makan/minum > periksa tanda-tanda vital > bawa ke faskes terdekat",
-      "image": " https://i.postimg.cc/tTLscLxx/steamedsweetpotato.jpg"
+      "image": "https://i.postimg.cc/8zRcLshX/syok.png"
     },
     {
       "name": "Cedera otot rangka",
       "symptom": "perubahan bentuk, nyeri-kaku, bengkak, memar, suara derik, ujung tulang terlihat",
       "procedure":"penilaian dini > pemeriksaan fisik > stabilkan cedera secara manual > upayakan cedera terlihat > atasi luka bila ada > lakukan pembidaian > baringkan korban pada posisi nyaman",
-      "image": "https://i.postimg.cc/QdsThGng/friedegg.jpg"
+      "image": "https://i.postimg.cc/TYSgty5R/cedera-otrang.png"
     },
     {
       "name": "Luka bakar",
       "symptom": "memar (derajat 1), melepuh (derajat 2), dalam-gosong (derajat 3)",
       "procedure":"aliri luka dengan air biasa selama 20 menit > lepas/gunting pakaian yang melekat pada luka > tutup luka dengan kassa steril & jangan memecah gelembung luka > jangan gunakan pasta gigi, mentega, oli, kecap, kopi, air es > bawa ke faskes terdekat",
-      "image": "https://i.postimg.cc/rpwRRGTK/hardboiledegg.jpg"
+      "image": "https://i.postimg.cc/Hsf8QfFn/luka-bakar.png"
     },
     {
       "name": "Pingsan",
       "symptom": "pandangan berkunang-kunang, lemas, keringat dingin, menguap, nadi lambat",
       "procedure":"baringkan korban > tinggikan tungkai > longgarkan pakaian > usahakan sirkulasi udara lancar & udara segar untuk korban > periksa & tangani cedera > beri selimut > periksa tanda-tanda vital > stabilkan posisi > bawa ke faskes terdekat",
-      "image": "https://i.postimg.cc/rpwRRGTK/hardboiledegg.jpg"
+      "image": "https://i.postimg.cc/YqmhqdjH/pingsan.png"
     },
     {
       "name": "Kejang panas",
       "symptom": "kejang otot, nyeri (biasanya pada tungkai/perut), lelah, mual, mungkin pingsan",
       "procedure":"pindahkan ke tempat teduh-sejuk > baringkan hingga kejang hilang > beri minuman pengganti cairan tubuh (oralit, dll) > bawa ke faskes terdekat",
-      "image": "https://i.postimg.cc/rpwRRGTK/hardboiledegg.jpg"
+      "image": "https://i.postimg.cc/43RtTr1q/kejang-panas.jpg"
     },
     {
       "name": "Kelelahan panas",
       "symptom": "napas cepat-dangkal, nadi lemah, kulit dingin-keriput-pucat, keringat berlebih, lemah, pusing, respon menurun, lidah kering, haus",
       "procedure":"baringkan korban di tempat teduh > longgarkan pakaian > tinggikan tungkai (20-30cm) > beri minum > bawa ke faskes terdekat",
-      "image": "https://i.postimg.cc/rpwRRGTK/hardboiledegg.jpg"
+      "image": "https://i.postimg.cc/fR9XpwYY/kelelahan-panas.jpg"
     },
     {
       "name": "Sengatan panas",
       "symptom": "napas cepat-dalam, nadi cepat-kuat kemudian cepat-lemah, kulit kering-panas-kemerahan, pupil melebar, hilang kesadaran, kejang/gemetar pada otot",
       "procedure":"turunkan suhu secapat mungkin > letakkan kantong es pada ketiak, lipat paha, belakang lutut, sekitar mata kaki, dan di samping leher > bila memungkinkan masukkan korban ke bak air dingin dengan tambahan es > bawa ke faskes terdekat",
-      "image": "https://i.postimg.cc/rpwRRGTK/hardboiledegg.jpg"
+      "image": "https://i.postimg.cc/hvNv1dy6/sengatan-panas.jpg"
     },
     {
       "name": "Paparan dingin (Hipotermia)",
       "symptom": "mengigil, terasa melayang, napas cepat, nadi lambat, gangguan pengelihatan, reaksi mata lambat, alat gerak kaku, pupil mata melebar, kesadaran menurun",
       "procedure":"nyamankan korban > lakukan penilaian dini dan memeriksanaan korban > pindah dari tempat dingin > jaga jalan napas dan beri oksigen > ganti pakaian yang basa dengan pakain kering dan hangat > beri selimut > beri minumam hangat > pantau tanada-tanda vital > bawa ke faskes terdekat",
-      "image": "https://i.postimg.cc/rpwRRGTK/hardboiledegg.jpg"
+      "image": "https://i.postimg.cc/sXwZ71RC/hipotermia.jpg"
     },
     {
       "name": "Keracunan pada alat pencernaan",
       "symptom": "mual-muntah, nyeri perut, diare, napas berbau, suara parau, luka bakar di daerah mulut, sisa racun di daerah mulut, mulut berbusa",
       "procedure":"beri minum anti racun (norit, susu, putih telut, air kelapa, air mineral) > usahakan korban muntah > jangan muntahkan apabila korban menelan asam/basa kuat, minyak, kejang, tidak sadar > bawa ke faskes terdekat",
-      "image": "https://i.postimg.cc/rpwRRGTK/hardboiledegg.jpg"
+      "image": "https://i.postimg.cc/6pn2zMN0/keracunan-cerna.jpg"
     },
     {
       "name": "Keracunan pada alat pernapasan",
       "symptom": "sesak napas, kulit kebiruan (sianosis), napas berbau, batuk, suara parau",
       "procedure":"beri oksigen > bawa ke faskes terdekat",
-      "image": "https://i.postimg.cc/rpwRRGTK/hardboiledegg.jpg"
+      "image": "https://i.postimg.cc/CK0Z2bhV/keracunan-napas.jpg"
     },
     {
       "name": "Keracunan melalui kontak kulit",
       "symptom": "kulit kemerahan, nyeri, melepuh-meluas",
       "procedure":"buka pakaian > sikat serbuk racun (bila ada) sampai kulit bersih > aliri bdengan air (20 menit) > jangan siram kulit dengan air yang terkena soda api",
-      "image": "https://i.postimg.cc/rpwRRGTK/hardboiledegg.jpg"
+      "image": "https://i.postimg.cc/1R7qzgHp/keracunan-sentuh.jpg"
     },
     {
       "name": "Keracunan melalui suntikan/gigitan",
       "symptom": "kulit suntikan/gigitan, nyeri, kemerahan, perubahan warna kulit",
       "procedure":"bawa ke faskes  terdekat",
-      "image": "https://i.postimg.cc/rpwRRGTK/hardboiledegg.jpg"
+      "image": "https://i.postimg.cc/xTkbN0xB/keracunan-suntik.jpg"
     },
     {
       "name": "Gigitan ular",
       "symptom": "demam, mual-muntah, pingsan, lemah, kejang, nadi cepat-lemah, gangguan napas",
       "procedure":"amankan penolongan dan tempat kejadian > lenangkan korban > lakukan penilaian dini > rawat luka dengan bidai atau pembalut elastis > bawa ke fasilitas kesehatan > identifikasi ulat bila memungkinkan > jangan pakai torniket",
-      "image": "https://i.postimg.cc/rpwRRGTK/hardboiledegg.jpg"
+      "image": "https://i.postimg.cc/V6YCJnpF/gigitan-ular.jpg"
     }
   ],
   "contacts": [
@@ -96,49 +96,49 @@
       "name": "Call Center 112",
       "desc": "Kondisi gawat darurat kecelakaan, kebakaran, kerusuhan, gangguan keamanan, bencana alam, dll",
       "detail":"112",
-      "image": "https://i.postimg.cc/CLpZspYy/icedtea.png"
+      "image": "https://i.postimg.cc/j21w3958/call-center.jpg"
     },
     {
       "name": "Ambulans",
       "desc": "No. Telp. Ambulans",
       "detail":"118, 8413476, 8313416, 8313416",
-      "image": "https://i.postimg.cc/CLpZspYy/icedtea.png"
+      "image": "https://i.postimg.cc/zfwhD0tB/ambulans.jpg"
     },
     {
       "name": "Rumah Sakit Kariadi",
       "desc": "No. Telp. RS di Semarang",
       "detail":"6722564",
-      "image": "https://i.postimg.cc/CLpZspYy/icedtea.png"
+      "image": "https://i.postimg.cc/3rqkTs81/rs.jpg"
     },
     {
       "name": "Palang Merah Indonesia",
       "desc": "No. Telp. PMI Semarang",
       "detail":"3541237",
-      "image": "https://i.postimg.cc/CLpZspYy/icedtea.png"
+      "image": "https://i.postimg.cc/NjqLyRrr/pmi.jpg"
     },
     {
       "name": "Unit Transfusi Darah",
       "desc": "No. Telp. UTD Semarang",
       "detail":"3542752",
-      "image": "https://i.postimg.cc/CLpZspYy/icedtea.png"
+      "image": "https://i.postimg.cc/HLTxzHzY/utd.jpg"
     },
     {
       "name": "Kantor Polisi",
       "desc": "No. Telp. Poltabes Semarang",
       "detail":"8444444",
-      "image": "https://i.postimg.cc/CLpZspYy/icedtea.png"
+      "image": "https://i.postimg.cc/g0KwbrjL/poltabes.jpg"
     },
     {
       "name": "Kantor SAR",
       "desc": "No. Telp. Kantor SAR Semarang",
       "detail":"3580027",
-      "image": "https://i.postimg.cc/CLpZspYy/icedtea.png"
+      "image": "https://i.postimg.cc/BbjtFgg2/sar.jpg"
     },
     {
       "name": "Dinas Kebakaran",
       "desc": "No. Telp. Kantor Dinas Kebakaran Semarang",
       "detail":"113, 7607076, 7605871, 7616867",
-      "image": "https://i.postimg.cc/CLpZspYy/icedtea.png"
+      "image": "https://i.postimg.cc/FzzkZm9d/damkar.jpg"
     }
   ]  
 }

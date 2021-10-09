@@ -55,8 +55,8 @@ export default class Tindakan extends Component {
 				</AppBar>
                 <br/><br/><br/>
 				<Grid container
-                    md={6}
-                    spacing={4}
+                    xs={8}
+                    spacing={2}
                     style={{ marginLeft: "auto", marginRight: "auto" }}
                     direction="column"
                     justifyContent="center"
@@ -79,8 +79,8 @@ export default class Tindakan extends Component {
 					{this.state.firstaid.map((results, index) => {
 						return (
 							<Grid item key={results.name}>
-								<Card>
-									<CardActionArea className="button" onClick={() => this.handleModal(results)}>										
+								<Card style={{ borderRadius:"16px" }}>
+									<CardActionArea className="button" onClick={() => this.handleModal(results)}>								
 										<CardContent style={{ backgroundColor: "#700101", textAlign: "center", color: "#ededed" }} >
                                             <div style={{ display:"flex", justifyContent:"center"}}>
                                                 <CardMedia
@@ -88,8 +88,8 @@ export default class Tindakan extends Component {
                                                         margin: "1px",
                                                         padding: "auto",
                                                         borderRadius: "8px",
-                                                        height: "80px",
-                                                        width: "80px"
+                                                        height: "90px",
+                                                        width: "120px"
                                                     }}
                                                     component="img"
                                                     image={results.image}
